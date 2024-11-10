@@ -54,12 +54,12 @@ Este projeto é uma aplicação web simples que permite ao usuário consultar a 
 ## Como Usar
 
 1. Abra a aplicação no navegador.
-2. Insira o nome da cidade para a qual deseja consultar a previsão do tempo e clique em "Pesquisar".
+2. Insira o nome da cidade para a qual deseja consultar a previsão do tempo e clique em "Buscar".
 3. O clima atual será exibido, juntamente com a previsão dos próximos 5 dias, incluindo temperatura, condição climática e intensidade de chuva (se houver).
 
 ## Exemplo de Uso
 
-1. **Busca por Cidade**: Insira "São Paulo" e pressione o botão "Pesquisar."
+1. **Busca por Cidade**: Insira "São Paulo" e pressione o botão "Buscar."
 2. **Resultados**: A aplicação exibe:
    - Clima atual em São Paulo.
    - Previsão dos próximos 5 dias:
